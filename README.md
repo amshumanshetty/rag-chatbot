@@ -162,7 +162,7 @@ http://localhost:3000
 
 ### PDF Upload
 
-![PDF Upload](screenshots/upload.png)
+![PDF Upload](screenshots/pdf_upload.png)
 
 ### Chat Interface
 
