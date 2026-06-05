@@ -156,11 +156,17 @@ http://localhost:3000
 
 ##  Screenshots
 
-Add screenshots of:
+### Home Screen
 
-* PDF Upload Interface
-* Chat Interface
-* Sample Question & Answer
+![Home Screen](screenshots/home.png)
+
+### PDF Upload
+
+![PDF Upload](screenshots/upload.png)
+
+### Chat Interface
+
+![Chat Interface](screenshots/chat.png)
 
 ---
 
